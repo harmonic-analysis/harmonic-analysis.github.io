@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 13AI
+title: Harmonic Analysis
 ---
 
 <div id="home">
