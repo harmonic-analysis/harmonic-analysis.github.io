@@ -4,7 +4,7 @@ title: Harmonic Analysis
 ---
 
 <div id="home">
-  <h1>调和分析介绍</h1>
+  <h1>调和分析介</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
