@@ -11,4 +11,4 @@ permalink: /about/
 
 
 ## 公众号二维码：   
-![avatar](/wechat-top4.jpg)
+![avatar](/wechat-harmonic-analysis.jpg)
