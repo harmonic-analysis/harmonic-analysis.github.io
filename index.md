@@ -17,7 +17,8 @@ title: Harmonic Analysis
   <h1>核心问题介绍</h1>
   <ul class="posts">
     主要研究
-  </ul>
   <div><a class="extra" href="/core">更多详情</a></div>
+  </ul>
+  
 
 </div>
