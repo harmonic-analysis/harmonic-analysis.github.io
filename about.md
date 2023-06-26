@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-# 数学四大杂志小助手官网
+# 调和分析及其应用
 
 ## 宗旨
 - 传播现代调和分析知识。
