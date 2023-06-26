@@ -3,7 +3,7 @@ layout: default
 title: Harmonic Analysis
 ---
 
-![avatar](/_pictures/harmonic-analysis.png)
+![avatar](/harmonic-analysis.png)
 
 
 <div id="home">
