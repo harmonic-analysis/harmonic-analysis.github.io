@@ -3,8 +3,10 @@ layout: default
 title: Harmonic Analysis
 ---
 
-![avatar](/harmonic-analysis.png)
-
+<!-- ![avatar](/harmonic-analysis.png) -->
+<div style="width: 1200px;">
+<a href="/" target="_blank"><img src="/harmonic-analysis.png" alt=""></a>
+</div>
 
 <div id="home">
   <h1>调和分析介绍</h1>
