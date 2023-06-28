@@ -5,7 +5,7 @@ title: Harmonic Analysis
 
 <!-- ![avatar](/harmonic-analysis.png) -->
 <div>
-<a href="/" target="_blank"><img src="/harmonic-analysis.png" height="860" width="2400" alt=""></a>
+<a href="/" target="_blank"><img src="/harmonic-analysis.png" height="430" width="1200" alt=""></a>
 </div>
 
 <div id="home">
